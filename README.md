@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing on event bases
 - 📫 How to reach me : asvimalraj2005@gmail.com  
 - 😄 Pronouns: Day by day learning and develop yourself 
-- ⚡ Fun fact: Nothing just a FOMO
+- ⚡ Fun fact: Love the code 
 
 <!---
 asvimalraj2005/asvimalraj2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
