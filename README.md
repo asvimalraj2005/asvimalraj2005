@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asvimalraj2005,
-- 👀 I’m interested in the field of SWE ML/DL,
+- 👀 I’m interested in the field of FrontEnd->ML->DL->LLM,
 - 🌱 I’m currently learning Python basics and Advanced topics,
 - 💞️ I’m looking to collaborate on nothing on event bases,
 - 📫 How to reach me : asvimalraj2005@gmail.com,
