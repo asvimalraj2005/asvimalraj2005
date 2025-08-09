@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asvimalraj2005,
-- 👀 I’m interested in the field SDE,
-- 🌱 I’m currently learning Python basics and Advanced topics,
+- 👀 I’m interested in the field of SDE 1,
+- 🌱 I’m currently learning java basics and advanced topics,
 - 💞️ I’m looking to collaborate on nothing on event bases,
 - 📫 How to reach me : asvimalraj2005@gmail.com,
 - 😄 Pronouns: He/Him 
