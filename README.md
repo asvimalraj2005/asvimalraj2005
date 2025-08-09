@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @asvimalraj2005,
-- 👀 I’m interested in the field of FrontEnd->ML->DL->LLM,
+- 👀 I’m interested in the field SDE,
 - 🌱 I’m currently learning Python basics and Advanced topics,
 - 💞️ I’m looking to collaborate on nothing on event bases,
 - 📫 How to reach me : asvimalraj2005@gmail.com,
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Design 
+- ⚡ Fun fact: Design
+- Now it's good ///
 
 <!---
 asvimalraj2005/asvimalraj2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
