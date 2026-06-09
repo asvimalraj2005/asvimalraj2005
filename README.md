@@ -1,1 +1,1 @@
-pri'vátként' tartva
+
